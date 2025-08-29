@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Python, SQL, Electronics, ML, and Java**
 - 🎓 I'm a student at **RTU MIREA**
-- 📫 How to reach me: **qwerty@example.ru**
-- 📱 Telegram: [**@example**](https://t.me/example)
+- 📫 How to reach me: **Alex.Suchkov8889@yandex.ru**
+- 📱 Telegram: [**@alleneo**](https://t.me/alleneo)
 
 ---
 
