@@ -1,6 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Alexey</h1>
 <h3 align="center">A passionate 3rd-year Computer Science student from Russia</h3>
 
+---
+<p align="center">
+  <img src="https://flagcdn.com/w640/ru.jpg" width="100%" height="80">
+</p>
+
 - 🌱 I’m currently learning **Python, SQL, Electronics, ML, and Java**
 - 🎓 I'm a student at **RTU MIREA**
 - 📫 How to reach me: **Alex.Suchkov8889@yandex.ru**
