@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Alexey</h1>
+<h1 align="center">What's up, I'm Alexey</h1>
 <h3 align="center">A passionate 3rd-year Computer Science student from Russia</h3>
 
 ---
@@ -6,10 +6,10 @@
   <img src="https://flagcdn.com/w640/ru.jpg" width="100%" height="80">
 </p>
 
-- 🌱 I’m currently learning **DS, ML and DE**
-- 🎓 I'm a student at **RTU MIREA**
-- 📫 How to reach me: **Alex.Suchkov8889@yandex.ru**
-- 📱 Telegram: [**@alleneo**](https://t.me/alleneo)
+- I’m currently learning **DS, ML and DE**
+- I'm a student at **RTU MIREA**
+- How to reach me: **Alex.Suchkov8889@yandex.ru**
+- Telegram: [**@alleneo**](https://t.me/alleneo)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📚 About Me
+### About Me
 
 *   I'm a graduate of **Yandex Lyceum**.
 *   I'm new to GitHub but eager to contribute and build a strong portfolio of projects.
@@ -43,19 +43,13 @@
 
 <div align="center">
   
-### ⭐ Random Button ⭐
+###  Random Button 
   
 [![This is a button because I can](https://img.shields.io/badge/This_is_a_button-because_I_can-%23FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AN-Suchkov)
   
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <i>Thanks for stopping by!</i> 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</p>
 
 <div align="center">
   <br>
