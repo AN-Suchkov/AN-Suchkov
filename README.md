@@ -1,5 +1,5 @@
 <h1 align="center">What's up, I'm Alexey</h1>
-<h3 align="center">A passionate 3rd-year Computer Science student from Russia</h3>
+<h3 align="center">A passionate 4th-year Computer Science student from Russia</h3>
 
 ---
 <p align="center">
