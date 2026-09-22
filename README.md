@@ -33,7 +33,7 @@
 ### About Me
 
 *   I'm a graduate of **Yandex Lyceum**.
-*   I'm new to GitHub but eager to contribute and build a strong portfolio of projects.
+*   ML/DS/CV enjoyer
 *   I enjoy diving into **backend development** with Python and Java, and sometimes I do some **vibe-coding** with ReactJS for fun.
 *   My interests also include **electronics**, **electro guitars**, and the fascinating world of **Machine Learning**.
 <p align="left"><p>
